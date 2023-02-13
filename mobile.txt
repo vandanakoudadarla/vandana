@@ -8,3 +8,5 @@ version 90.0
 
  version : 10.0
  
+ version : 101
+ Cost : 25000
