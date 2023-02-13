@@ -1,0 +1,3 @@
+Name : redmi
+Version : 9.0 
+Ram : 8gb
